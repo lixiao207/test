@@ -1,0 +1,17 @@
+h2 {
+	color: #9C2F06;
+	font-size: 18px;
+	line-height: 40px;
+	font-weight: bold;
+}
+
+p {
+	color: #9C2F06;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+img,
+p {
+	vertical-align: middle;
+}
